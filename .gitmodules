@@ -1,0 +1,6 @@
+[submodule "notion-burndown-python"]
+	path = notion-burndown-python
+	url = git@github.com:timsgardner/notion-burndown-python.git
+[submodule "notion-burndown-electron"]
+	path = notion-burndown-electron
+	url = git@github.com:timsgardner/notion-burndown-electron.git
